@@ -1,5 +1,7 @@
-public class Pessoa{
-    private String nome;
+package javasamples;
+
+public class Person {
+    private String name;
     private String address;
     // getters 
     // setters 

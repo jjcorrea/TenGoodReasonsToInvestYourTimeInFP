@@ -1,2 +1,2 @@
-case class Person(nome: String, address: String)
+case class Person(name: String, address: String)
 
